@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="name">Nasza Dwi Prayoga</string>
+    <string name="contact">+11 (123) 555 666</string>
+    <string name="link">"@"AndroidDevelopment</string>
+    <string name="email">Nas@android.com</string>
+    <string name="majory">Android Developer</string>
+
+</resources>
